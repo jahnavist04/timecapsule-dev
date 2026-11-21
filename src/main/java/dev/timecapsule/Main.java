@@ -14,7 +14,6 @@ public class Main {
         System.out.println("2. restore  - Restore previous session");
         System.out.println("3. history  - View saved sessions");
         System.out.println("4. help     - Show available commands");
-
         System.out.println("\nTimeCapsule is ready!");
     }
 }
