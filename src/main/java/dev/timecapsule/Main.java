@@ -8,7 +8,6 @@ public class Main {
         System.out.println("================================");
         System.out.println("       TIMECAPSULE.DEV");
         System.out.println("================================");
-
         System.out.println("Your coding journey, remembered.");
 
         System.out.println("\nAvailable Commands:");
