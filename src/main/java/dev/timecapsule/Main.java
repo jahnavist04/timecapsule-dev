@@ -9,7 +9,6 @@ public class Main {
         System.out.println("       TIMECAPSULE.DEV");
         System.out.println("================================");
         System.out.println("Your coding journey, remembered.");
-
         System.out.println("\nAvailable Commands:");
         System.out.println("1. save     - Save current project state");
         System.out.println("2. restore  - Restore previous session");
