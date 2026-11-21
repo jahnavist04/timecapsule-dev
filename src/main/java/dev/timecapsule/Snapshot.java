@@ -12,7 +12,6 @@ public class Snapshot {
     private List<String> modifiedFiles;
     private String developerNotes;
     private LocalDateTime timestamp;
-
     public Snapshot(String projectName, String projectPath,
                     String gitBranch, List<String> modifiedFiles,
                     String developerNotes) {
