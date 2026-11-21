@@ -5,7 +5,6 @@ import java.time.LocalDateTime;
 import java.util.List;
 
 public class Snapshot {
-
     private String projectName;
     private String projectPath;
     private String gitBranch;
